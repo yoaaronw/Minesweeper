@@ -1,0 +1,3 @@
+C:/Users/pro22/CLionProjects/Minesweeper/cmake-build-debug/CMakeFiles/Minesweeper.dir
+C:/Users/pro22/CLionProjects/Minesweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pro22/CLionProjects/Minesweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
